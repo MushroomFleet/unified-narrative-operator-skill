@@ -56,8 +56,8 @@ The extracted structure should be:
 ### Option 2: Clone and copy
 
 ```bash
-git clone https://github.com/MushroomFleet/unified-narritive-operator-skill.git
-cp -r unified-narritive-operator-skill/build/UNO ~/.claude/commands/UNO
+git clone https://github.com/MushroomFleet/unified-narrative-operator-skill.git
+cp -r unified-narrative-operator-skill/build/UNO ~/.claude/commands/UNO
 ```
 
 ## Usage
@@ -149,7 +149,7 @@ If you use this codebase in your research or project, please cite:
   title = {Unified Narrative Operator: Three-Stage Narrative Enhancement Pipeline for Claude Code},
   author = {Drift Johnson},
   year = {2025},
-  url = {https://github.com/MushroomFleet/unified-narritive-operator-skill},
+  url = {https://github.com/MushroomFleet/unified-narrative-operator-skill},
   version = {2.0.0}
 }
 ```
@@ -157,3 +157,4 @@ If you use this codebase in your research or project, please cite:
 ### Donate:
 
 [![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
+
